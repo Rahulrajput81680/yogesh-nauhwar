@@ -55,7 +55,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-xl-2 col-lg-4 col-md-5">
+			<div class="col-xl-3 col-lg-4 col-md-5">
 				<div class="footer-widget">
 					<h3 class="w-title">
 						<span><img src="assets/img/icons/wheat.png" alt="icon"/></span>
@@ -109,8 +109,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="footer-bottom">
+		<div class="footer-bottom">
 		<div class="row">
 			<div class="col-xl-12">
 				<div class="container">
@@ -128,6 +127,7 @@
 				</div>
 			</div>
 		</div>
+	</div>
 	</div>
 </footer>
 <!-- footer-section end -->

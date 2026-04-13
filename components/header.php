@@ -27,7 +27,8 @@ $contactActive = $isContact ? 'active' : '';
 <!-- header-section start -->
 <header class="header-section-2">
 	<div class="header-bottom-2">
-		<div class="container-fluid">
+		<div class="container">
+			<div class="container-fluid">
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="header-bottom-layout">
@@ -86,6 +87,7 @@ $contactActive = $isContact ? 'active' : '';
 				</div>
 			</div>
 		</div>
+		</div>
 	</div>
 </header>
 <!-- header-section end -->
@@ -96,7 +98,7 @@ $contactActive = $isContact ? 'active' : '';
 		<div class="off-canvas-head">
 			<div class="off-canvas-logo">
 				<a href='index.php'>
-					<img src="assets/img/logo/logo.svg" alt="logo"/>
+					<img src="assets/img/logo/yogesh-logo.png" alt="logo"/>
 				</a>
 			</div>
 			<div class="off-canvas-menubar-close" data-close="menubar">
@@ -121,11 +123,11 @@ $contactActive = $isContact ? 'active' : '';
 			</ul>
 		</div>
 		<div class="off-canvas-extra">
-			<div class="off-canvas-profile">
+			<!-- <div class="off-canvas-profile">
 				<img src="assets/img/logo/yogesh-logo.png" alt="Yogesh Nauhwar"/>
 				<h5>Chaudhary Yogesh Nauhwar</h5>
 				<p>MLC | Public Service | Development Work</p>
-			</div>
+			</div> -->
 			<div class="off-canvas-contact">
 				<a class="off-canvas-contact-item" href="tel:+70264566579">
 					<span class="icon"><i class="fa-solid fa-phone"></i></span>

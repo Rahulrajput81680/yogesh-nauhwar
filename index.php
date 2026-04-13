@@ -2366,7 +2366,7 @@
 						<h2>Frequently Asked Question <span>?</span></h2>
 					</div>
 					<div class="text">
-						<p>Everything you need to know about Chaudhary Yogesh Nauhwar and his work for the people of Mant & Mathura.</p>
+						<p>Yogesh Nauhwar has spent over 17 years serving the farmers, youth, women, and common citizens of Mant and Mathura. From securing crores of rupees for road construction to raising critical issues in the Uttar Pradesh Legislative Council.</p>
 					</div>
 					<div class="blog-btn">
 						<a class='e-primary-btn has-icon' href='contact.php'>Have You Any Questions? <span class="icon-wrap"><span class="icon"><i class="fa-regular fa-arrow-right"></i> <i class="fa-regular fa-arrow-right"></i></span></span></a>

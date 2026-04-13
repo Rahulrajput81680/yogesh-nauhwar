@@ -2306,7 +2306,8 @@ label {
   border-radius: 14px;
   color: var(--white-color);
   background: var(--theme-color-3);
-  box-shadow: 0 10px 24px rgba(21, 22, 28, 0.18);
+  border: 1px solid #fff;
+  /* box-shadow: 0 10px 24px rgba(21, 22, 28, 0.18); */
 }
 .floating-social-links a:hover {
   color: var(--theme-color-3);
@@ -5403,12 +5404,13 @@ label {
 .camping-card {
   background-color: var(--white-color);
   border-radius: 10px;
-  box-shadow: 0 4px 56.5px rgba(0, 0, 0, 0.06);
+  /* box-shadow: 0 4px 56.5px rgba(0, 0, 0, 0.06); */
   padding: 10px;
   -webkit-transition: all 0.3s linear 0s;
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
   height: 100%;
+  border: 1px solid rgb(201, 228, 215);
 }
 .camping-card.active .thumb a img, .camping-card:hover .thumb a img {
   transform: scale(1.1);
@@ -9702,9 +9704,9 @@ label {
   overflow: hidden;
   border-radius: 10px;
 }
-.project-card.active .thumb a img, .project-card:hover .thumb a img {
+/* .project-card.active .thumb a img, .project-card:hover .thumb a img {
   transform: scale(1.1);
-}
+} */
 .project-card.active .thumb .content, .project-card:hover .thumb .content {
   padding-bottom: 100px;
 }
@@ -9735,7 +9737,7 @@ label {
   left: 0;
   width: 100%;
   height: 100%;
-  /* background: linear-gradient(180deg, rgba(0, 24, 25, 0) 38.69%, rgba(0, 24, 25, 0.1) 66.87%, #001819 100%); */
+  background: linear-gradient(180deg, rgba(0, 24, 25, 0) 38.69%, rgba(0, 24, 25, 0.0) 80%, #001819 100%);
   /* background: linear-gradient(180deg, rgba(255, 225, 117, 0) 64.88%, #2b835b 100%); */
   z-index: 2;
 }
